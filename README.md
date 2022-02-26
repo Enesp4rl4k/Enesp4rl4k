@@ -2,7 +2,9 @@ Hi there I'm Enes 👋
 Im high school student at the Birey college
 
 I'm currently learning C#,.Net Core and working on OOP
+
 💬 Ask me about technology
+
 📫 How to reach me:eparlak996@gmail.com
 
 <!---

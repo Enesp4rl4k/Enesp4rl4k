@@ -1,6 +1,5 @@
 Hi there I'm Enes 👋
 
-Im high school student at the Birey college
 
 I'm currently learning C#,.Net Core and working on OOP
 
